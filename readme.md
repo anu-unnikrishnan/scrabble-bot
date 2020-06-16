@@ -2,7 +2,7 @@
 Guide to Scrabble against an AI.
 --------------------------------------
 
-This repository contains Python code for building Scrabble Bot, an AI that you can play Scrabble against.
+This repository contains Python code for building Scrabble Bot, an AI opponent for Scrabble.
 
 1) scrabble.py - code for the game of Scrabble. 
 2) scrabble_words.txt - all the words in the Collins Scrabble dictionary. 
