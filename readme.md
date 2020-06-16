@@ -1,5 +1,5 @@
 
-Guide to Scrabble against an AI.
+Guide to Scrabble Bot.
 --------------------------------------
 
 This repository contains Python code for building Scrabble Bot, an AI opponent for Scrabble.
@@ -9,7 +9,7 @@ This repository contains Python code for building Scrabble Bot, an AI opponent f
 
 Each player has to make words on the Scrabble board, using their seven letters. Each new addition to the board must give valid words in both the left-right and up-down directions. Every letter has associated points, and the points for each word is the sum of the points of letters in all new words. Some spaces on the board give you bonus points.
 
-To build an AI player, we look through all possible words in the dictionary that can be made on each row and each column of the board, and play the highest-scoring word. 
+To build the AI player, we look through all possible words in the dictionary that can be made on each row and each column of the board, and play the highest-scoring word. 
 
 
 
